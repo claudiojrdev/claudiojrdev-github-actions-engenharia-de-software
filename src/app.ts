@@ -1,5 +1,5 @@
 
-// import test from "./unusedFunction";
+import test from "./unusedFunction";
 
 console.log("Olá Turma de Engenharia de Software!!");
-// console.log(test());
+console.log(test());
