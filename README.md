@@ -35,7 +35,3 @@ O projeto consiste em uma aplicação simples desenvolvida em **TypeScript**, ut
 * [Documentação oficial do GitHub Actions](https://docs.github.com/pt/actions)
 * [Github Actions do Zero e na Prática - dogcode](https://youtu.be/MIVx1qniNKY?si=WpDDDoK21Y4aRzID)
 * [Criando um Workflow AUTOMATIZADO de CI com o Github Actions - Fernanda Kipper](https://www.youtube.com/watch?v=F51HlrEeedw)
-
----
-
-Se desejar, posso te ajudar a complementar esse README com exemplos de uso, instruções de execução ou badges (selos) do GitHub Actions. 🚀
